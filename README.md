@@ -1,2 +1,2 @@
 # SPWM BIPOLAR
-This MATLAB program is used to visualize an equation of Spirograph. Changing the irrational number pi in the program will change the pattern of the Spirograph
+This MATLAB program will generate a video which will help the students to know how Sinusoidal Pulse Width Modulation signal can be generated using bipolar logic for single phase H bridge inverter.
